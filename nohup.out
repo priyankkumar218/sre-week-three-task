@@ -1,0 +1,31 @@
+Current number of restarts: 2
+Current number of restarts: 2
+Current number of restarts: 3
+Current number of restarts: 3
+Current number of restarts: 4
+Current number of restarts: 4
+Current number of restarts: 4
+Current number of restarts: 5
+Maximum number of restarts exceeded. Scaling down the deployment...
+deployment.apps/swype-app scaled
+Current number of restarts: 1
+Current number of restarts: 2
+Current number of restarts: 3
+Current number of restarts: 3
+Current number of restarts: 4
+Current number of restarts: 4
+Current number of restarts: 4
+Current number of restarts: 5
+Maximum number of restarts exceeded. Scaling down the deployment...
+deployment.apps/swype-app scaled
+Current restart count for swype-app: 0
+Current restart count for swype-app: 0
+Current restart count for swype-app: 1
+Current restart count for swype-app: 2
+Current restart count for swype-app: 2
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 4
+Pod exceeded maximum restarts (3). Scaling down deployment...
+deployment.apps/swype-app scaled
+Monitoring stopped.
